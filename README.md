@@ -77,6 +77,7 @@ Solução: Utilizamos a conversão de horários para minutos desde a meia-noite,
 
 Garantir que a interface do usuário seja intuitiva e fácil de usar.
 Solução: Implementamos inputs de tipo "time" no HTML para facilitar a inserção de horários pelos usuários.
+
 Validar os inputs de horário e fornecer feedback adequado ao usuário.
 Solução: Adicionamos verificações para garantir que ambos os horários fossem fornecidos e retornamos mensagens apropriadas dependendo se a sobreposição foi detectada ou não.
 
