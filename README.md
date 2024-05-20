@@ -1,4 +1,4 @@
-Nome: Eduardo Katayama
+Nome: Eduardo Katayama <br/>
 Nome: Wilson M. U. Hiramatsu
 
 Relatório Técnico
