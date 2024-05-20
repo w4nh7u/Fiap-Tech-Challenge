@@ -22,19 +22,26 @@ https://github.com/w4nh7u/Fiap-Tech-Challenge
 Documentação das APIs
 
 Endpoints para gerenciamento dos Locais
+
 [GET] http://localhost:3000/places 
+
 [POST] http://localhost:3000/places
 Payload: {"name":"Fiap","capacity":1000}
+
 [PUT] http://localhost:3000/places
 Payload: {"name":"FIAP","capacity":1001}
+
 [DELETE] http://localhost:3000/places/{id}
 
 Endpoints para gerenciamento da Reserva
 [GET] http://localhost:3000/reservations
+
 [POST] http://localhost:3000/reservations
 Payload: {"place":"TESTE","date":"2024-05-18","start":"20:26","end":"22:26"}
+
 [PUT] http://localhost:3000/reservations
 Payload: {"place":"1","date":"2024-05-17T00:00:00.000Z","start":"18:16","end":"20:16"}
+
 [DELETE] http://localhost:3000/reservations/{id}
 
 
